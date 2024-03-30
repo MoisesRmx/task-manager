@@ -1,0 +1,13 @@
+.header {
+  box-sizing: border-box;
+  text-align: center;
+  width: 90%;
+  margin: 0;
+  padding: 0;
+}
+
+.header h1 {
+  display: inline-block;
+  margin: 0;
+  color: #fff;
+}
