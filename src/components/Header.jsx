@@ -5,7 +5,7 @@ export default function Header({ title }) {
       <h1>
       { title }
       </h1>
-      <a href="https://github.com/moisesRmx" target="_blank"><img src="public/github-icon.png" alt="github icon" /></a>
+      <a href="https://github.com/moisesRmx" target="_blank"><img src="/github-icon.png" alt="github icon" /></a>
     </header>
   )
 }
